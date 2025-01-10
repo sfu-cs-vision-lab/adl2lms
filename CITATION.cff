@@ -3,21 +3,34 @@ message: "If you use this work, please cite it as below."
 preferred-citation:
   type: article
   authors:
-    - family-names: 
-      given-names: 
-    - family-names: 
-      given-names: 
-  title: ""
-  journal: ""
+    - family-names: Logvinenko
+      given-names: Alexander D.
+    - family-names: Funt
+      given-names: Brian
+    - family-names: Godau
+      given-names: Christoph
+  title: "Metamer Mismatching"
+  journal: "IEEE Transactions on Image Processing"
   keywords:
     - Color
-  volume: 
-  number: 
-  pages: 
-  publisher: ""
-  year: 
-  month: 
-  doi: 
-  url: 
+    - Image color analysis
+    - Sensors
+    - Solids
+    - Equations
+    - Sensitivity
+    - Vectors
+    - Colour vision
+    - Metamerism
+    - Metamer mismatching
+    - Metamer set
+    - Metamer mismatch volume
+  volume: 23
+  number: 1
+  pages: 34-43
+  publisher: "IEEE"
+  year: 2014
+  month: null
+  doi: 10.1109/TIP.2013.2283148
+  url: https://doi.org/10.1109/TIP.2013.2283148
   abstract: |
-    
+    A new algorithm for calculating the metamer mismatch volumes that arise in colour vision and colour imaging is introduced. Unlike previous methods, the proposed method places no restrictions on the set of possible object reflectance spectra. As a result of such restrictions, previous methods have only been able to provide approximate solutions to the mismatch volume. The proposed new method is the first to characterize precisely the metamer mismatch volume for any possible reflectance.
